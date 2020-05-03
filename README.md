@@ -2,6 +2,8 @@
 
 Platzi CSS Grid course project, Layout mansory.
 
+Project website https://edwintrumpet.github.io/learning-css-grid-mansory-layout/
+
 Desktop view
 
 ![desktop view](./images/desktop-view.png)
